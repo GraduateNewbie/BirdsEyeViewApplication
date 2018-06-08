@@ -1,0 +1,261 @@
+
+#face{
+
+	float:right;
+
+}
+#twit{
+
+float: left;
+
+}
+.my-nav{
+
+background-color: #5C8E3A;
+border-radius:15px;
+}
+
+.nav>li>a:active{
+
+border-radius:15px;
+}
+
+
+.social{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FFFFFF; 
+}
+
+.my_btn{
+	color: #FFFFFF;
+	background-color: #006400;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FFFFFF;
+	float: left;
+	
+}
+.my_btn:hover{
+	color: #FFFFFF;
+	background-color:#8FBC8F;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FFFFFF; 
+	
+}
+
+
+
+
+#logo{
+	margin-top: -20px;
+	margin-left:-20px;
+}
+
+#logo_medium{
+
+	margin-left:-20px;
+}
+
+.pagetitle{
+	margin-top:-20px;
+ text-align: center;
+ padding-top: 0px;
+text-decoration: underline #5C8E3A;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#uheader{
+	font-size: 28px;
+	margin-top: -5px;
+	padding-bottom: 0px;
+	margin-bottom: -10px;
+}
+
+.footer .jumbotron {
+	background-color: #5C8E3A;
+	height: 200px;
+}
+
+#breaker{
+	height: 40px;
+	border-radius: 15px;
+}
+
+#breaker1{
+	height: 20px;
+	border-radius: 15px;
+}
+
+#breaker2{
+	height: 5px;
+	border-radius: 15px;
+}
+
+p{
+	text-align: left;
+}
+
+#flinks{
+color: #FFFFFF !important;
+padding-left: 10px;
+
+   
+}
+
+#rspb{
+
+padding-right: 10px;	
+}
+
+#face2{
+
+padding-right: 10px;
+}
+
+#twit2{
+
+padding-right: 10px;
+}
+
+#insta{
+
+padding-right: 10px;
+}
+
+#birdpic2{
+	max-height: 350px;
+}
+
+.glyphicon{
+	color: #FFFFFF;
+}
+.input-group-addon{
+background-color: #5C8E3A;	
+}
+
+#mybtn{
+	float: right;
+}
+
+.li{
+	font-size: 16px;
+	color:#FFFFFF;
+	margin-top: -10px;
+}
+
+.li:hover{
+	font-size: 18px;
+	color:#FFFFFF;
+}
+
+
+.font_style{
+	color: #FFFFFF !important;
+}
+
+.font_style:hover{
+	color: #3F6228 !important;
+	border-radius: 5px;
+}
+
+.font_style:focus{
+	color: #3F6228 !important;
+	border-radius: 5px;
+}
+
+/*---heading title pic styles-------*/
+.jumbotron .h1, .jumbotron h1 {
+    background-color: #FFFFFF;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border:none;
+    color: inherit;
+    background-color: #FFFFFF;
+}
+
+/*---contact page styles-------*/
+contactpic1{
+    max-height: 360px !important;
+}
+
+#contactinfo{
+	font-size: 16px;
+	text-align: left;
+}
+
+}
+
+/*---you tube player styles*/
+.panel-default>.panel-heading{
+	border-color: #5C8E3A;
+	
+}
+.panel{
+	border:5px solid #5C8E3A;
+}
+.panel-body{
+border-color: #5C8E3A;	
+}
+
+.panel-title{
+	text-align: center;
+	
+}
+
+/*---home page slider-------*/
+.pointer:hover{
+	color:#5C8E3A;
+}
+
+/*---post form-------*/
+.textinputarea{
+	text-align: ;
+}
+
+/*---view bird image-------*/
+.birdviewimage{
+	max-height: 300px;
+}
+/*---addBirdbtn button-------*/
+.addBirdbtn{
+	font-size: 18px;
+	text-align: center;
+}
+/*--- H7 success message styling-------*/
+
+#h7{
+	text-align: center;
+	font-size: 18px;
+}
+/*--- Spotted uploaded image-------*/
+.blogpic{
+	max-height: 280px;
+}
+
+/*--- post text style-------*/
+.posttext{
+	font-size: 15px;
+
+}
+#posttext{
+	max-width: 600px;
+}
+/*--- portfolio search box results-------*/
+#searchresults{
+
+min-height: 200px;
+}
+#show_list{
+	max-height: 200px;
+overflow-x: scroll;
+
+}
+.bird_result{
+	overflow:hidden;
+}
+
